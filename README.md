@@ -1,2 +1,2 @@
-#VSCODESCSS
-This is a sample folder of the VSCODE SASS Structure
+#myapp
+This is my app
