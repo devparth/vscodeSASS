@@ -9,7 +9,7 @@ h4,
 h5,
 h6 {
   margin: 0;
-  margin-bottom: 25px;
+  margin-bottom: 24px;
 }
 
 p {
@@ -26,7 +26,7 @@ p {
   margin: 0;
 }
 
-.navbar-default .navbar-nav li>a {
+.navbar-default .navbar-nav li > a {
   background-color: transparent;
   font-size: 20px;
   color: #ff0000;
@@ -56,7 +56,7 @@ p {
   text-align: center;
   padding: 10px;
   -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
+          transform: translateY(-50%);
 }
 
 .banner .content h1 {
@@ -80,7 +80,7 @@ p {
 }
 
 .gallery .img {
-  height: 510px;
+  height: 500px;
   width: 100%;
   margin-bottom: 20px;
   background-color: whitesmoke;
@@ -151,14 +151,11 @@ footer label {
   .banner {
     height: 350px;
   }
-
   .content-area p {
     margin-bottom: 15px;
   }
-
   .gallery .img {
     height: 300px;
   }
 }
-
 /*# sourceMappingURL=style.css.map */
